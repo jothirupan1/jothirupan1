@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Jothirupan 👋
 
-<!--
-**jothirupan1/jothirupan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎖 Certifications
+- **Full Stack MERN Developer – Illinois Institute of Technology (IIT Chicago)**  
+  🔗 [View My Verified Credly Badge](https://www.credly.com/badges/c70b7550-c012-4f0f-bba4-bf77516a3329/public_url)
 
-Here are some ideas to get you started:
+- **Full Stack Development (MERN) – Entri Elevate**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- HTML, CSS, JavaScript  
+- React.js  
+- Node.js, Express.js  
+- MongoDB, Mongoose  
+- JWT Authentication  
+- REST APIs  
+- Git & GitHub  
+
+### 🚀 Projects
+- **E-commerce App (MERN)** – Full authentication, cart, and order system  
+- **Flight Ticket Management System (MERN)** – Passenger/Admin roles, booking flow  
+- **And more**.. 
+
+### 📫 Contact
+- **LinkedIn:** https://www.linkedin.com/in/jothirupan-d-47a539294  
+- **Portfolio:** https://new-prortfolio.vercel.app/
