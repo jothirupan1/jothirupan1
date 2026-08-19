@@ -23,12 +23,6 @@ I enjoy automating web applications, identifying bugs, and continuously improvin
 * **Web Element & Validation Testing** – Working with locators, dropdowns, alerts, frames, windows, and WebElement validation methods
 * **Automation Practice Scripts** – Building scripts to practice real-world testing scenarios and Selenium concepts
 
-### 🎖 Certifications
-
-* **Full Stack MERN Developer – Illinois Institute of Technology (IIT Chicago)**
-  🔗 [View My Verified Credly Badge](https://www.credly.com/badges/c70b7550-c012-4f0f-bba4-bf77516a3329/public_url)
-
-* **Full Stack Development (MERN) – Entri Elevate**
 
 ### 📫 Contact
 
