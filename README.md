@@ -1,25 +1,36 @@
 # Hi, I'm Jothirupan 👋
 
-### 🎖 Certifications
-- **Full Stack MERN Developer – Illinois Institute of Technology (IIT Chicago)**  
-  🔗 [View My Verified Credly Badge](https://www.credly.com/badges/c70b7550-c012-4f0f-bba4-bf77516a3329/public_url)
+### 👨‍💻 Aspiring Automation Test Engineer
 
-- **Full Stack Development (MERN) – Entri Elevate**  
+I'm an aspiring **Software Test Engineer** passionate about ensuring software quality through **Manual and Automation Testing**. Currently, I'm building my skills in **Java, Selenium WebDriver, SQL, Maven, TestNG, and Git/GitHub**.
+
+I enjoy automating web applications, identifying bugs, and continuously improving my understanding of software testing and automation frameworks. 🧪
 
 ### 🛠 Tech Stack
-- HTML, CSS, JavaScript  
-- React.js  
-- Node.js, Express.js  
-- MongoDB, Mongoose  
-- JWT Authentication  
-- REST APIs  
-- Git & GitHub  
+
+* Java
+* Selenium WebDriver
+* Manual Testing
+* SQL
+* Maven
+* TestNG
+* Git & GitHub
+* Page Object Model (POM)
 
 ### 🚀 Projects
-- **E-commerce App (MERN)** – Full authentication, cart, and order system  
-- **Flight Ticket Management System (MERN)** – Passenger/Admin roles, booking flow  
-- **And more**.. 
+
+* **Selenium Automation Projects** – Automating web application test scenarios using Java and Selenium WebDriver
+* **Web Element & Validation Testing** – Working with locators, dropdowns, alerts, frames, windows, and WebElement validation methods
+* **Automation Practice Scripts** – Building scripts to practice real-world testing scenarios and Selenium concepts
+
+### 🎖 Certifications
+
+* **Full Stack MERN Developer – Illinois Institute of Technology (IIT Chicago)**
+  🔗 [View My Verified Credly Badge](https://www.credly.com/badges/c70b7550-c012-4f0f-bba4-bf77516a3329/public_url)
+
+* **Full Stack Development (MERN) – Entri Elevate**
 
 ### 📫 Contact
-- **LinkedIn:** https://www.linkedin.com/in/jothirupan-d-47a539294  
-- **Portfolio:** https://new-prortfolio.vercel.app/
+
+* **LinkedIn:** [linkedin.com/in/jothirupan-d-47a539294](https://www.linkedin.com/in/jothirupan-d-47a539294)
+* **Portfolio:** [new-prortfolio.vercel.app](https://new-prortfolio.vercel.app/)
